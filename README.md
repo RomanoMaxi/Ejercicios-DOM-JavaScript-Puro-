@@ -1,4 +1,4 @@
-#EJERCICIOS DEL DOM
+# EJERCICIOS DEL DOM
 
 Repositorio de ejercicios Javascript con el DOM, utilizando APIs de los navegadores.
 
